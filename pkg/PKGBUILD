@@ -3,9 +3,9 @@ pkgname=calamares
 pkgver=3.2.9
 pkgrel=1.7
 pkgdesc='Distribution-independent installer framework'
-arch=('i686' 'x86_64')
+arch=('x86_64')
 license=(GPL)
-url="https://github.com/ctlos/calamares"
+url="https://github.com/wiseos/calamares"
 license=('LGPL')
 depends=('kconfig' 
          'kcoreaddons' 
